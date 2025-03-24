@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **cloud computing, technologies and frameworks focused on backend and data science bases.**
 
-- 💬 Ask me about **Spring boot, JPA,Hibernate,Google cloud computing,java,python,supervised machine learning.**
+- 💬 Ask me about **Spring boot, JPA, cloud computing,java,python,supervised machine learning.**
 
 - 📫 How to reach me **cielo882@gmail.com**
 
